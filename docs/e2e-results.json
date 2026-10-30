@@ -1,0 +1,262 @@
+[
+  {
+    "name": "calendar: visualiser initial race",
+    "same": true,
+    "original": {
+      "circuit": "Mexico",
+      "when": "30-01 Nov",
+      "laps": "71",
+      "p2": "Practice 2",
+      "p3": "Practice 3",
+      "raceDate": "1 Nov",
+      "raceTime": "20:00",
+      "header": "Schedule",
+      "pastReveal": false,
+      "active": "mexico-city"
+    },
+    "rebuild": {
+      "circuit": "Mexico",
+      "when": "30-01 Nov",
+      "laps": "71",
+      "p2": "Practice 2",
+      "p3": "Practice 3",
+      "raceDate": "1 Nov",
+      "raceTime": "20:00",
+      "header": "Schedule",
+      "pastReveal": false,
+      "active": "mexico-city"
+    }
+  },
+  {
+    "name": "calendar: previous x1 (past race shows results)",
+    "same": true,
+    "original": {
+      "circuit": "Austin",
+      "when": "23-25 Oct",
+      "laps": "56",
+      "p2": "Practice 2",
+      "p3": "Practice 3",
+      "raceDate": "5th",
+      "raceTime": "1:35:47.171",
+      "header": "Schedule",
+      "pastReveal": true,
+      "active": "austin"
+    },
+    "rebuild": {
+      "circuit": "Austin",
+      "when": "23-25 Oct",
+      "laps": "56",
+      "p2": "Practice 2",
+      "p3": "Practice 3",
+      "raceDate": "5th",
+      "raceTime": "1:35:47.171",
+      "header": "Schedule",
+      "pastReveal": true,
+      "active": "austin"
+    }
+  },
+  {
+    "name": "calendar: sprint weekend relabels sessions (previous x2)",
+    "same": true,
+    "original": {
+      "circuit": "Singapore",
+      "when": "09-11 Oct",
+      "laps": "62",
+      "p2": "Sprint Quali",
+      "p3": "Sprint",
+      "raceDate": "4th",
+      "raceTime": "1:42:41.291",
+      "header": "Schedule",
+      "pastReveal": true,
+      "active": "singapore"
+    },
+    "rebuild": {
+      "circuit": "Singapore",
+      "when": "09-11 Oct",
+      "laps": "62",
+      "p2": "Sprint Quali",
+      "p3": "Sprint",
+      "raceDate": "4th",
+      "raceTime": "1:42:41.291",
+      "header": "Schedule",
+      "pastReveal": true,
+      "active": "singapore"
+    }
+  },
+  {
+    "name": "calendar: next from last loops to first",
+    "same": true,
+    "original": {
+      "circuit": "Melbourne",
+      "when": "06-08 Mar",
+      "laps": "58",
+      "p2": "Practice 2",
+      "p3": "Practice 3",
+      "raceDate": "5th",
+      "raceTime": "1:23:58.542",
+      "header": "Schedule",
+      "pastReveal": true,
+      "active": "melbourne"
+    },
+    "rebuild": {
+      "circuit": "Melbourne",
+      "when": "06-08 Mar",
+      "laps": "58",
+      "p2": "Practice 2",
+      "p3": "Practice 3",
+      "raceDate": "5th",
+      "raceTime": "1:23:58.542",
+      "header": "Schedule",
+      "pastReveal": true,
+      "active": "melbourne"
+    }
+  },
+  {
+    "name": "calendar: past/upcoming item counts",
+    "same": true,
+    "original": {
+      "past": 19,
+      "total": 24
+    },
+    "rebuild": {
+      "past": 19,
+      "total": 24
+    }
+  },
+  {
+    "name": "calendar: history accordion single-open",
+    "same": true,
+    "original": {
+      "expanded": [
+        "false",
+        "true",
+        "false"
+      ],
+      "open": 1
+    },
+    "rebuild": {
+      "expanded": [
+        "false",
+        "true",
+        "false"
+      ],
+      "open": 1
+    }
+  },
+  {
+    "name": "on-track: countdown target and ticking",
+    "same": true,
+    "original": {
+      "target": "1/11/2026 20:00",
+      "ticks": true,
+      "digits": 4
+    },
+    "rebuild": {
+      "target": "1/11/2026 20:00",
+      "ticks": true,
+      "digits": 4
+    }
+  },
+  {
+    "name": "on-track: position/round formatting",
+    "same": true,
+    "original": {
+      "positionsHaveSuffixMarkup": true,
+      "rounds": [
+        "19",
+        "20",
+        "21"
+      ]
+    },
+    "rebuild": {
+      "positionsHaveSuffixMarkup": true,
+      "rounds": [
+        "19",
+        "20",
+        "21"
+      ]
+    }
+  },
+  {
+    "name": "on-track: upcoming schedule rows",
+    "same": true,
+    "original": [
+      "mexico-city",
+      "sao-paulo",
+      "las-vegas",
+      "lusail",
+      "yas-marina"
+    ],
+    "rebuild": [
+      "mexico-city",
+      "sao-paulo",
+      "las-vegas",
+      "lusail",
+      "yas-marina"
+    ]
+  },
+  {
+    "name": "home: helmets and nav links",
+    "same": true,
+    "original": {
+      "helmets": 16,
+      "menu": [
+        "/",
+        "/on-track",
+        "/off-track",
+        "/calendar"
+      ]
+    },
+    "rebuild": {
+      "helmets": 16,
+      "menu": [
+        "/",
+        "/on-track",
+        "/off-track",
+        "/calendar"
+      ]
+    }
+  },
+  {
+    "name": "home: menu toggles aria-expanded",
+    "same": true,
+    "original": {
+      "open": "true",
+      "closed": "false",
+      "label": "Open menu"
+    },
+    "rebuild": {
+      "open": "true",
+      "closed": "false",
+      "label": "Open menu"
+    }
+  },
+  {
+    "name": "navigation: SPA link to /off-track keeps document",
+    "same": true,
+    "original": {
+      "path": "/off-track",
+      "sameDocument": true,
+      "page": "off-track"
+    },
+    "rebuild": {
+      "path": "/off-track",
+      "sameDocument": true,
+      "page": "off-track"
+    }
+  },
+  {
+    "name": "404: switcher variants",
+    "same": true,
+    "original": {
+      "count": 4,
+      "active": "grid",
+      "title": "Page Not Found"
+    },
+    "rebuild": {
+      "count": 4,
+      "active": "grid",
+      "title": "Page Not Found"
+    }
+  }
+]

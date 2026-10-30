@@ -1,0 +1,52 @@
+
+### calendar: visualiser initial race — EQUAL
+original: {"circuit":"Mexico","when":"30-01 Nov","laps":"71","p2":"Practice 2","p3":"Practice 3","raceDate":"1 Nov","raceTime":"20:00","header":"Schedule","pastReveal":false,"active":"mexico-city"}
+rebuild : {"circuit":"Mexico","when":"30-01 Nov","laps":"71","p2":"Practice 2","p3":"Practice 3","raceDate":"1 Nov","raceTime":"20:00","header":"Schedule","pastReveal":false,"active":"mexico-city"}
+
+### calendar: previous x1 (past race shows results) — EQUAL
+original: {"circuit":"Austin","when":"23-25 Oct","laps":"56","p2":"Practice 2","p3":"Practice 3","raceDate":"5th","raceTime":"1:35:47.171","header":"Schedule","pastReveal":true,"active":"austin"}
+rebuild : {"circuit":"Austin","when":"23-25 Oct","laps":"56","p2":"Practice 2","p3":"Practice 3","raceDate":"5th","raceTime":"1:35:47.171","header":"Schedule","pastReveal":true,"active":"austin"}
+
+### calendar: sprint weekend relabels sessions (previous x2) — EQUAL
+original: {"circuit":"Singapore","when":"09-11 Oct","laps":"62","p2":"Sprint Quali","p3":"Sprint","raceDate":"4th","raceTime":"1:42:41.291","header":"Schedule","pastReveal":true,"active":"singapore"}
+rebuild : {"circuit":"Singapore","when":"09-11 Oct","laps":"62","p2":"Sprint Quali","p3":"Sprint","raceDate":"4th","raceTime":"1:42:41.291","header":"Schedule","pastReveal":true,"active":"singapore"}
+
+### calendar: next from last loops to first — EQUAL
+original: {"circuit":"Melbourne","when":"06-08 Mar","laps":"58","p2":"Practice 2","p3":"Practice 3","raceDate":"5th","raceTime":"1:23:58.542","header":"Schedule","pastReveal":true,"active":"melbourne"}
+rebuild : {"circuit":"Melbourne","when":"06-08 Mar","laps":"58","p2":"Practice 2","p3":"Practice 3","raceDate":"5th","raceTime":"1:23:58.542","header":"Schedule","pastReveal":true,"active":"melbourne"}
+
+### calendar: past/upcoming item counts — EQUAL
+original: {"past":19,"total":24}
+rebuild : {"past":19,"total":24}
+
+### calendar: history accordion single-open — EQUAL
+original: {"expanded":["false","true","false"],"open":1}
+rebuild : {"expanded":["false","true","false"],"open":1}
+
+### on-track: countdown target and ticking — EQUAL
+original: {"target":"1/11/2026 20:00","ticks":true,"digits":4}
+rebuild : {"target":"1/11/2026 20:00","ticks":true,"digits":4}
+
+### on-track: position/round formatting — EQUAL
+original: {"positionsHaveSuffixMarkup":true,"rounds":["19","20","21"]}
+rebuild : {"positionsHaveSuffixMarkup":true,"rounds":["19","20","21"]}
+
+### on-track: upcoming schedule rows — EQUAL
+original: ["mexico-city","sao-paulo","las-vegas","lusail","yas-marina"]
+rebuild : ["mexico-city","sao-paulo","las-vegas","lusail","yas-marina"]
+
+### home: helmets and nav links — EQUAL
+original: {"helmets":16,"menu":["/","/on-track","/off-track","/calendar"]}
+rebuild : {"helmets":16,"menu":["/","/on-track","/off-track","/calendar"]}
+
+### home: menu toggles aria-expanded — EQUAL
+original: {"open":"true","closed":"false","label":"Open menu"}
+rebuild : {"open":"true","closed":"false","label":"Open menu"}
+
+### navigation: SPA link to /off-track keeps document — EQUAL
+original: {"path":"/off-track","sameDocument":true,"page":"off-track"}
+rebuild : {"path":"/off-track","sameDocument":true,"page":"off-track"}
+
+### 404: switcher variants — EQUAL
+original: {"count":4,"active":"grid","title":"Page Not Found"}
+rebuild : {"count":4,"active":"grid","title":"Page Not Found"}

@@ -1,0 +1,33 @@
+{
+  "marqueeLogos": [
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67d4349e00e6b7904f3746a3_ln4-ln4-collab-logo-ralph.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67d435767c599270fb721513_ln4-ln4-collab-logo-mind.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67efc88cf1d78e3e7624d5e3_ln4-ln4-collab-logo-ps4.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67efc88c532235956e5d267a_ln4-ln4-collab-logo-quadrant.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67efc88cb3373daa7ba240d6_ln4-ln4-collab-logo-tumi.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67efc88c1939bc87931c2599_ln4-ln4-collab-logo-hilton.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68d294a99b218abd71dc0764_ln4-ln4-collab-logo-uber.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68dbd5d7e14222573f46ebdb_ln4-ln4-collab-lnkart.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68dbd5d72c50967c2195c702_ln4-ln4-collab-bell-helmets.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68dbd5d718fcdbf76afbcc45_ln4-ln4-collab-pure-electric.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68dbd5d7a8a302c07e91904d_ln4-ln4-collab-google.svg"
+  ],
+  "cssMarqueeLogos": [
+    "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67ded2d59a2773f9b6518792_ln4-ln4-collab-logo-quadrant.svg",
+    "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67ded30422d52b417b838a96_ln4-ln4-collab-logo-mind.svg",
+    "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67ded2eb42843bae575a6892_ln4-ln4-collab-logo-tumi.svg",
+    "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67ded2d59a2773f9b6518792_ln4-ln4-collab-logo-quadrant.svg",
+    "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67ded2c281ae5431777106b2_ln4-ln4-collab-logo-ralph.svg",
+    "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67ded2a099f418db1d37323c_ln4-ln4-collab-logo-ps4.svg"
+  ],
+  "footerLogos": [
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67d33eb40292f3a5fef32ed3_ln4-footer-logo-add-c.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68dbd5d7361eb2ca03ba0929_ln4-footer-logo-google.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68dbd5d722f5ba2f4074cbe7_ln4-footer-logo-ralph-lauren.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68dbd5d70a9e147b77952c0d_ln4-footer-logo-android.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68dbd5d7564fc5a9fccf822f_ln4-footer-logo-pap.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68dbd5d761eeca9060e00622_ln4-footer-logo-monster.svg",
+    "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68dbd5d74d2804b912ed1fcc_ln4-footer-logo-hilton.svg"
+  ],
+  "placeholder": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67d43b0fcd3d4512a46df889_ln-collabs-rive-placeholder.svg"
+}

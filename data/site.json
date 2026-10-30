@@ -1,0 +1,120 @@
+{
+  "_note": "Static copy observed on landonorris.com on 2026-10-29. Image values are original CDN URLs; the server maps them to local mirrors via asset-map.json.",
+  "title": "McLaren Formula 1 Driver — Lando Norris",
+  "driver": {
+    "name": "Lando Norris",
+    "subtitle": "2025 Mclaren Formula 1 Driver",
+    "team": "mclaren f1 since 2019",
+    "birthDate": "1999-11-13",
+    "ageObserved": 26,
+    "hometown": "Bristol, UK",
+    "hometownFlag": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67d847cd483aba2443c36b45_ln4-flag-UK.svg",
+    "tagline": "bringing the fight",
+    "standing": 6
+  },
+  "links": {
+    "store": "https://store.landonorris.com/",
+    "storePromo": "https://landonorris.store/",
+    "business": "mailto:business@landonorris.com",
+    "partnerships": "/partnerships",
+    "socials": [
+      { "name": "tiktok", "url": "https://www.tiktok.com/@landonorris" },
+      { "name": "instagram", "url": "https://www.instagram.com/lando" },
+      { "name": "youtube", "url": "https://www.youtube.com/@LandoNorris", "menuUrl": "https://www.youtube.com/landonorris04" },
+      { "name": "twitch", "url": "https://www.twitch.tv/landonorris" }
+    ]
+  },
+  "pages": [
+    { "label": "Home", "href": "/" },
+    { "label": "On Track", "href": "/on-track" },
+    { "label": "Off Track", "href": "/off-track" },
+    { "label": "Partnerships", "href": "/partnerships", "hidden": true },
+    { "label": "Calendar", "href": "/calendar" }
+  ],
+  "images": {
+    "favicon": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67b5a0969616f526f020ec0e_ln-favicon.png",
+    "signature": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67cecea4e9d311047dcb51e5_ln4-hw-signature2.svg",
+    "signatureDark": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67e7eeaf67d51519b546828d_ln4-signature-dark-green.webp",
+    "lnLogo": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67f517cdc5bb460c3c3b8e5b_ln4-LN-logo-svg.svg",
+    "nameTextMobile": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67e968a40345883f8ccc1b05_ln4-lando-norris-text-mobile.svg",
+    "ototHelmet": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67d18655b032045a4dc78e53_ln4-hp-lando-helmet.webp",
+    "ototHead": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67d18655b032045a4dc78e56_ln4-hp-lando-head.webp",
+    "ototEnd": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68302ff5ff89a9a4afb8c19e_ln4-otot-home-end.webp",
+    "onTrackEnd": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67d19dded0cc2582410c1ae5_ln4-otot-home-end-img.webp",
+    "footerBg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67d43d6e276c436a378a1da6_ln4-footer-bg.webp",
+    "footerBlobs": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dbeba158707fa1cd5e5e45_blobs_footer_1.svg",
+    "helmetFrame": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67e41c00f127bc68e2462635_helmet-extender.svg",
+    "crossedFlags": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67d0350ea945b9600438ac76_ln-icon-crossed-flags.svg",
+    "crossedFlags2": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/680cbcfdbc4bdc0ef619369f_ln-icon-crossed-flags2.svg",
+    "careerCar": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68303e09a8ef4882167f5bde_ln-podium-Lando-Australia-2025.webp",
+    "preF1Car": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67d963fb414eee985ba72cb6_pre-f1-car-img.webp",
+    "preF1Win": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68303ebd394e3e9ebdc8e99e_ln-f1-car-img-2.webp",
+    "trackBg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67daf55e8e952bf4d31414e7_ln4-list-track-bg.svg",
+    "heroFace": "/assets/gl/textures_head_webp_diffuse.webp",
+    "heroFaceAlpha": "/assets/gl/textures_head_webp_alpha.webp",
+    "notFound": "/assets/gl/textures_not-found_webp_not-found-alpha-6.webp"
+  },
+  "home": {
+    "manifesto": [
+      ["Redefining", true], [" limits, fighting for ", false], ["wins", true],
+      [", bringing it all in all ways. Defining a ", false], ["legacy", true], [" in Formula 1 on and off the track.", false]
+    ],
+    "onTrack": { "lead": "Most recent", "em": "results", "rest": ", career stats and photos from trackside." },
+    "offTrack": { "lead": "", "em": "Campaigns", "rest": ", shoots and other such promotional materials for fans" },
+    "helmetsIntro": "From his iconic blobs to innovative one-off designs, Lando has always been passionate about designing innovative and memorable helmets.",
+    "helmetsCta": "See more helmets and highlights from Lando on the track",
+    "store": {
+      "eyebrow": "LANDO STORE",
+      "title": ["World Drivers'", "Champion"],
+      "text": "Celebrate this incredible moment with a collection designed for the fans who never stopped believing. Wear it, frame it, treasure it forever.",
+      "cta": "Visit the store"
+    },
+    "partners": {
+      "text": "Lando is proud to collaborate with a range of partners, who share his passion for performance across a range of industries.",
+      "cta": "view partnerships"
+    }
+  },
+  "onTrack": {
+    "intro": "Since his F1 debut with McLaren in 2019, Lando Norris has been all in – pushing limits, chasing wins, and bringing the",
+    "introEm": "fight to every race",
+    "impact": [["Challenging", false], [" the ", false], ["limits", true], [", ", false], ["winning", true], [" races. Bringing ", false], ["it all", true], [" each and every weekend.", false]],
+    "podiums": 49,
+    "career": { "wins": 13, "poles": 19, "averageFinish": "6.28", "fastestLaps": 18 },
+    "seasons": [
+      { "year": "2024", "finish": "2nd", "podiums": 13 },
+      { "year": "2023", "finish": "6th", "podiums": 7 },
+      { "year": "2022", "finish": "7th", "podiums": 1 },
+      { "year": "2021", "finish": "6th", "podiums": 4 },
+      { "year": "2020", "finish": "9th", "podiums": 1 },
+      { "year": "2019", "finish": "11th", "podiums": 0 }
+    ],
+    "highlightsIntro": "Throughout his seven seasons in Formula 1, Lando has achieved a range of memorable results on tracks across the world.",
+    "preF1Intro": "Prior to starting his Formula 1 career, Lando had an illustrious junior career in karting and junior formulae, winning multiple titles on his way to the pinnacle of motorsport.",
+    "preF1": [
+      { "title": "fia formula 3 eu champion", "year": "2017", "major": true },
+      { "title": "formula 2 2nd place", "year": "2018" },
+      { "title": "renault 2.0 nec champion", "year": "2016" },
+      { "title": "renault 2.0 eurocup champion", "year": "2016" },
+      { "title": "toyota series champion", "year": "2016" },
+      { "title": "cik-fia karting world champion", "year": "2014" },
+      { "title": "MSA Formula (british f4) champion", "year": "2015" },
+      { "title": "World Karting (KFJ) champion", "year": "2013" }
+    ],
+    "scheduleIntro": "Lando's upcoming racing schedule, as he takes on the 2025 Formula 1 season."
+  },
+  "offTrack": {
+    "intro": "Since his F1 debut with McLaren in 2019, Lando Norris has been all in – pushing limits, chasing podiums, and bringing the",
+    "introEm": "fight to every race",
+    "note": "Recently, Lando has been getting ready for the new season trying the new ways to stay at Hilton hotels."
+  },
+  "calendar": {
+    "lead": "The Formula 1 season is underway, view Lando’s schedule below.",
+    "historyIntro": "The new Formula 1 year is underway, view Lando’s schedule below.",
+    "season": "2026"
+  },
+  "footer": {
+    "claim": [["Always ", false], ["bringing", true], [" the ", false], ["fight", true], [".", false]],
+    "copyright": "© 2026 Lando Norris.",
+    "rights": "All rights reserved"
+  }
+}

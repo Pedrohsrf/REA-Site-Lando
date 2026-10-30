@@ -1,0 +1,1764 @@
+[
+  {
+    "year": "2025",
+    "finish": "1st",
+    "podiums": "18",
+    "races": [
+      {
+        "round": 1,
+        "location": "Australia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ca7bc20675ff4b811f7_ln4-flag-Australia.svg",
+        "date": "16 Mar",
+        "year": "25",
+        "finish": "1st",
+        "fastestLap": "1:22.167",
+        "trophy": {
+          "kind": "gold",
+          "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b96ec0e262fb26980f54_melbourne.svg"
+        },
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880e88dd8fdd751582c581d_LandoAus25.webp"
+      },
+      {
+        "round": 2,
+        "location": "China",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b520e635e4ebfc71a15_ln4-flag-China.svg",
+        "date": "23 Mar",
+        "year": "25",
+        "finish": "2nd",
+        "fastestLap": "1:35.454",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880c7d552c1c9b0c85d37ef_LandoChina25.webp"
+      },
+      {
+        "round": 3,
+        "location": "Japan",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c6ac95ae0a662d65330_ln4-flag-Japan.svg",
+        "date": "6 Apr",
+        "year": "25",
+        "finish": "2nd",
+        "fastestLap": "1:31.116",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880c832ae184e1cd724aab7_LandoJapan25.webp"
+      },
+      {
+        "round": 4,
+        "location": "Bahrain",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ce70be011b4a7c0bf13_ln4-flag-Bahrain.svg",
+        "date": "13 Apr",
+        "year": "25",
+        "finish": "3rd",
+        "fastestLap": "1:35.728",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880c87744b4c9aa6c6869c7_LandoBah25.webp"
+      },
+      {
+        "round": 5,
+        "location": "Saudi Arabia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b60ed90c1081e0d27f9_ln4-flag-Saudi-Arabia.svg",
+        "date": "20 Apr",
+        "year": "25",
+        "finish": "4th",
+        "fastestLap": "1:31.778",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880c8d61a916cb07bfb76e9_LandoSaudi25.webp"
+      },
+      {
+        "round": 6,
+        "location": "Miami",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+        "date": "4 May",
+        "year": "25",
+        "finish": "2nd",
+        "fastestLap": "1:29.746",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880c941e43808f212dfbb2a_LandoMiami25.webp"
+      },
+      {
+        "round": 7,
+        "location": "Emilia Romagna",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "18 May",
+        "year": "25",
+        "finish": "2nd",
+        "fastestLap": "1:18.311",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880e77cc8ec1a5aa0908a23_LandoImola25.webp"
+      },
+      {
+        "round": 8,
+        "location": "Monaco",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b595cbde22c4828fc37_ln4-flag-Monaco.svg",
+        "date": "25 May",
+        "year": "25",
+        "finish": "1st",
+        "fastestLap": "1:13.221",
+        "trophy": {
+          "kind": "gold",
+          "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b9428f35e69829405bf2_monaco.svg"
+        },
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/687e5b78f7107dcbb5c89e23_LandoMonaco25.jpg"
+      },
+      {
+        "round": 9,
+        "location": "Catalunya",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02bccbdea44f6b2b79c78_ln4-flag-Spain.png",
+        "date": "1 Jun",
+        "year": "25",
+        "finish": "2nd",
+        "fastestLap": "1:16.187",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880e7d5f0a554ffccfb2944_LandoSpain25.webp"
+      },
+      {
+        "round": 10,
+        "location": "Canada",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cbb06a4f0bcad743e27_ln4-flag-Canada.svg",
+        "date": "15 Jun",
+        "year": "25",
+        "finish": "DNF",
+        "fastestLap": "1:14.229",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880c76207ad28b7d7d48f12_LandoCanada25.webp"
+      },
+      {
+        "round": 11,
+        "location": "Austria",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf25e4717ddaccf0e80_ln4-flag-Austria.svg",
+        "date": "29 Jun",
+        "year": "25",
+        "finish": "1st",
+        "fastestLap": "1:08.272",
+        "trophy": {
+          "kind": "gold",
+          "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b9deef96dae785029163_speilberg.svg"
+        },
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880c71dd7522eea9330e60d_LandoAustria25Win.webp"
+      },
+      {
+        "round": 12,
+        "location": "United Kingdom",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c5d68e84cb0b53857b1_ln4-flag-UK.svg",
+        "date": "6 Jul",
+        "year": "25",
+        "finish": "1st",
+        "fastestLap": "1:29.734",
+        "trophy": {
+          "kind": "gold",
+          "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b9b0d1d5c369ef6e824a_silverstone.svg"
+        },
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/687e5afc3c31f988c5ce2ec4_LandoBritishGP25.jpg"
+      },
+      {
+        "round": 13,
+        "location": "Belgium",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cd86e1c07f5f092911e_ln4-flag-Belgium.svg",
+        "date": "27 Jul",
+        "year": "25",
+        "finish": "2nd",
+        "fastestLap": "1:45.257",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68d83f67b05af7e965da7c28_lando%20-%20hover%20image%20-%20belg%202025.webp"
+      },
+      {
+        "round": 14,
+        "location": "Hungary",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c63ce2c79cb6d5ad322_ln4-flag-Hungary.svg",
+        "date": "3 Aug",
+        "year": "25",
+        "finish": "1st",
+        "fastestLap": "1:19.918",
+        "trophy": {
+          "kind": "gold",
+          "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b9a90045085496909902_mogyorod.svg"
+        },
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68d83f71b6033920cd059509_lando%20-%20hover%20image%20-%20hungary%202025.webp"
+      },
+      {
+        "round": 15,
+        "location": "Netherlands",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b692a635bdc4c50a03f_ln4-flag-Netherlands.svg",
+        "date": "31 Aug",
+        "year": "25",
+        "finish": "DNF",
+        "fastestLap": "1:12.379",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68b5629f5c04fd699ab303d5_DutchGP25.webp"
+      },
+      {
+        "round": 16,
+        "location": "Italy",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "7 Sep",
+        "year": "25",
+        "finish": "2ND",
+        "fastestLap": "1:20.901",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68d83f82c8aac7e6c222e5e0_lando%20-%20hover%20image%20-%20italy%202025.webp"
+      },
+      {
+        "round": 17,
+        "location": "Azerbaijan",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cdf22140410bbc1aa85_ln4-flag-Azerbaijan.svg",
+        "date": "21 Sep",
+        "year": "25",
+        "finish": "7TH",
+        "fastestLap": "1:44.155",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68d83f8a4d9dd19c081ceb2f_lando%20-%20hover%20image%20-%20az%202026.webp"
+      },
+      {
+        "round": 18,
+        "location": "Singapore",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b32b0a9560a829bf11c_ln4-flag-Singapore.svg",
+        "date": "5 Oct",
+        "year": "25",
+        "finish": "3rd",
+        "fastestLap": "1:35.555",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/69244101e96d281d047a5943_hover-image-singapore.webp"
+      },
+      {
+        "round": 19,
+        "location": "United States",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+        "date": "19 Oct",
+        "year": "25",
+        "finish": "2nd",
+        "fastestLap": "1:37.620",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/692440d6bbd132e68079ea9d_hover-image-austin.webp"
+      },
+      {
+        "round": 20,
+        "location": "Mexico",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b8f0b8b4f570a2af153_ln4-flag-Mexico.png",
+        "date": "26 Oct",
+        "year": "25",
+        "finish": "1st",
+        "fastestLap": "1:20.764",
+        "trophy": {
+          "kind": "gold",
+          "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b9686da107b4f822ff72_mexico-city.svg"
+        },
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/692440eb2f0d8293754b9be9_hover-image-mexico.webp"
+      },
+      {
+        "round": 21,
+        "location": "Brazil",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cca06a4f0bcad744855_ln4-flag-Brazil.png",
+        "date": "9 Nov",
+        "year": "25",
+        "finish": "1st",
+        "fastestLap": "1:13.040",
+        "trophy": {
+          "kind": "gold",
+          "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b93bf4e8892026600422_shanghai.svg"
+        },
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6910e4bdef71283ceaaaaf7c_lando-brazil.webp"
+      },
+      {
+        "round": 22,
+        "location": "Las Vegas",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+        "date": "23 Nov",
+        "year": "25",
+        "finish": "DSQ",
+        "fastestLap": "1:33.965",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/692441073ef972aaed247f69_hover-image-vegas.webp"
+      },
+      {
+        "round": 23,
+        "location": "Qatar",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c71cd46156653ca8316_ln4-flag-Qatar.svg",
+        "date": "30 Nov",
+        "year": "25",
+        "finish": "4th",
+        "fastestLap": "1:23.197",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6935b34a71cbaa7d8e9bb1ae_lando%20-%20hover%20image%20-%20qatar%202025.webp"
+      },
+      {
+        "round": 24,
+        "location": "Abu Dhabi",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf7aefc55f749a2647d_ln4-flag-Abu-Dabi.svg",
+        "date": "7 Dec",
+        "year": "25",
+        "finish": "3rd",
+        "fastestLap": "1:26.818",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6935b355c1c55ded9dae73e6_lando%20-%20hover%20image%20-%20abu%202026.webp"
+      }
+    ]
+  },
+  {
+    "year": "2024",
+    "finish": "2nd",
+    "podiums": "13",
+    "races": [
+      {
+        "round": 1,
+        "location": "Bahrain",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ce70be011b4a7c0bf13_ln4-flag-Bahrain.svg",
+        "date": "2 Mar",
+        "year": "24",
+        "finish": "6TH",
+        "fastestLap": "1:34.476",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 2,
+        "location": "Saudi Arabia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b60ed90c1081e0d27f9_ln4-flag-Saudi-Arabia.svg",
+        "date": "9 Mar",
+        "year": "24",
+        "finish": "8TH",
+        "fastestLap": "1:31.944",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 3,
+        "location": "Australia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ca7bc20675ff4b811f7_ln4-flag-Australia.svg",
+        "date": "24 Mar",
+        "year": "24",
+        "finish": "3RD",
+        "fastestLap": "1:19.915",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 4,
+        "location": "Japan",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c6ac95ae0a662d65330_ln4-flag-Japan.svg",
+        "date": "7 Apr",
+        "year": "24",
+        "finish": "5th",
+        "fastestLap": "1:35.186",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 5,
+        "location": "China",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b520e635e4ebfc71a15_ln4-flag-China.svg",
+        "date": "21 Apr",
+        "year": "24",
+        "finish": "2ND",
+        "fastestLap": "1:37.690",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 6,
+        "location": "Miami",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+        "date": "5 May",
+        "year": "24",
+        "finish": "1st",
+        "fastestLap": "1:29.456",
+        "trophy": {
+          "kind": "gold",
+          "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b95ed3d2262c4baf3b4f_miami.svg"
+        },
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68d83f4611793e72dd5d3c0b_lando%20-%20hover%20image%20-%20miami%202024.webp"
+      },
+      {
+        "round": 7,
+        "location": "Emilia Romagna",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "19 May",
+        "year": "24",
+        "finish": "2ND",
+        "fastestLap": "1:19.994",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 8,
+        "location": "Monaco",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b595cbde22c4828fc37_ln4-flag-Monaco.svg",
+        "date": "26 May",
+        "year": "24",
+        "finish": "4TH",
+        "fastestLap": "1:15.742",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 9,
+        "location": "Canada",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cbb06a4f0bcad743e27_ln4-flag-Canada.svg",
+        "date": "9 Jun",
+        "year": "24",
+        "finish": "2ND",
+        "fastestLap": "1:15.558",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 10,
+        "location": "Catalunya",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02bccbdea44f6b2b79c78_ln4-flag-Spain.png",
+        "date": "23 Jun",
+        "year": "24",
+        "finish": "2nd",
+        "fastestLap": "1:17.115",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 11,
+        "location": "Austria",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf25e4717ddaccf0e80_ln4-flag-Austria.svg",
+        "date": "30 Jun",
+        "year": "24",
+        "finish": "DNF",
+        "fastestLap": "1:08.016",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 12,
+        "location": "United Kingdom",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c5d68e84cb0b53857b1_ln4-flag-UK.svg",
+        "date": "7 Jul",
+        "year": "24",
+        "finish": "3RD",
+        "fastestLap": "1:29.262",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 13,
+        "location": "Hungary",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c63ce2c79cb6d5ad322_ln4-flag-Hungary.svg",
+        "date": "21 Jul",
+        "year": "24",
+        "finish": "2ND",
+        "fastestLap": "1:21.712",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 14,
+        "location": "Belgium",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cd86e1c07f5f092911e_ln4-flag-Belgium.svg",
+        "date": "28 Jul",
+        "year": "24",
+        "finish": "5th",
+        "fastestLap": "1:45.563",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 15,
+        "location": "Netherlands",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b692a635bdc4c50a03f_ln4-flag-Netherlands.svg",
+        "date": "25 Aug",
+        "year": "24",
+        "finish": "1ST",
+        "fastestLap": "1:13.817",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880beb4ec21efa775b75580_LandoDutchGP24.webp"
+      },
+      {
+        "round": 16,
+        "location": "Italy",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "1 Sep",
+        "year": "24",
+        "finish": "3RD",
+        "fastestLap": "1:21.432",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 17,
+        "location": "Azerbaijan",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cdf22140410bbc1aa85_ln4-flag-Azerbaijan.svg",
+        "date": "15 Sep",
+        "year": "24",
+        "finish": "4th",
+        "fastestLap": "1:45.255",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 18,
+        "location": "Singapore",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b32b0a9560a829bf11c_ln4-flag-Singapore.svg",
+        "date": "22 Sep",
+        "year": "24",
+        "finish": "1st",
+        "fastestLap": "1:34.925",
+        "trophy": {
+          "kind": "gold",
+          "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b9227e77bb6c6c720d09_singapore.svg"
+        },
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880bfc5787be733022da054_LandoSingaporeWin24.webp"
+      },
+      {
+        "round": 19,
+        "location": "United States",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+        "date": "20 Oct",
+        "year": "24",
+        "finish": "4th",
+        "fastestLap": "1:37.679",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 20,
+        "location": "Mexico",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b8f0b8b4f570a2af153_ln4-flag-Mexico.png",
+        "date": "27 Oct",
+        "year": "24",
+        "finish": "2ND",
+        "fastestLap": "1:19.691",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 21,
+        "location": "Brazil",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cca06a4f0bcad744855_ln4-flag-Brazil.png",
+        "date": "3 Nov",
+        "year": "24",
+        "finish": "6TH",
+        "fastestLap": "1:21.517",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 22,
+        "location": "Las Vegas",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+        "date": "23 Nov",
+        "year": "24",
+        "finish": "6th",
+        "fastestLap": "1:34.876",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 23,
+        "location": "Qatar",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c71cd46156653ca8316_ln4-flag-Qatar.svg",
+        "date": "1 Dec",
+        "year": "24",
+        "finish": "10th",
+        "fastestLap": "1:22.384",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 24,
+        "location": "Abu Dhabi",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf7aefc55f749a2647d_ln4-flag-Abu-Dabi.svg",
+        "date": "8 Dec",
+        "year": "24",
+        "finish": "1st",
+        "fastestLap": "1:27.438",
+        "trophy": {
+          "kind": "gold",
+          "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b9e3705d1a50d024cefd_yas-marina.svg"
+        },
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68d83f314814d0df92af7224_lando%20-%20hover%20image%20-%20abu%202024.webp"
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "finish": "6th",
+    "podiums": "7",
+    "races": [
+      {
+        "round": 1,
+        "location": "Bahrain",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ce70be011b4a7c0bf13_ln4-flag-Bahrain.svg",
+        "date": "5 Mar",
+        "year": "23",
+        "finish": "17th",
+        "fastestLap": "1:35.822",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 2,
+        "location": "Saudi Arabia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b60ed90c1081e0d27f9_ln4-flag-Saudi-Arabia.svg",
+        "date": "19 Mar",
+        "year": "23",
+        "finish": "17th",
+        "fastestLap": "1:34.122",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 3,
+        "location": "Australia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ca7bc20675ff4b811f7_ln4-flag-Australia.svg",
+        "date": "2 Apr",
+        "year": "23",
+        "finish": "6th",
+        "fastestLap": "1:21.173",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 4,
+        "location": "Azerbaijan",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cdf22140410bbc1aa85_ln4-flag-Azerbaijan.svg",
+        "date": "30 Apr",
+        "year": "23",
+        "finish": "9th",
+        "fastestLap": "1:45.738",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 5,
+        "location": "Miami",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+        "date": "7 May",
+        "year": "23",
+        "finish": "17th",
+        "fastestLap": "1:32.401",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 6,
+        "location": "Emilia Romagna",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "21 May",
+        "year": "23",
+        "finish": "N/A",
+        "fastestLap": "",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 7,
+        "location": "Monaco",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b595cbde22c4828fc37_ln4-flag-Monaco.svg",
+        "date": "28 May",
+        "year": "23",
+        "finish": "9th",
+        "fastestLap": "",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 8,
+        "location": "Catalunya",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02bccbdea44f6b2b79c78_ln4-flag-Spain.png",
+        "date": "4 Jun",
+        "year": "23",
+        "finish": "17th",
+        "fastestLap": "1:17.182",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 9,
+        "location": "Canada",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cbb06a4f0bcad743e27_ln4-flag-Canada.svg",
+        "date": "18 Jun",
+        "year": "23",
+        "finish": "13th",
+        "fastestLap": "1:16.374",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 10,
+        "location": "Austria",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf25e4717ddaccf0e80_ln4-flag-Austria.svg",
+        "date": "2 Jul",
+        "year": "23",
+        "finish": "4th",
+        "fastestLap": "1:08.739",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 11,
+        "location": "United Kingdom",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c5d68e84cb0b53857b1_ln4-flag-UK.svg",
+        "date": "9 Jul",
+        "year": "23",
+        "finish": "2nd",
+        "fastestLap": "1:30.543",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 12,
+        "location": "Hungary",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c63ce2c79cb6d5ad322_ln4-flag-Hungary.svg",
+        "date": "23 Jul",
+        "year": "23",
+        "finish": "2nd",
+        "fastestLap": "1:22.178",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 13,
+        "location": "Belgium",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cd86e1c07f5f092911e_ln4-flag-Belgium.svg",
+        "date": "30 Jul",
+        "year": "23",
+        "finish": "7th",
+        "fastestLap": "1:51.682",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 14,
+        "location": "Netherlands",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b692a635bdc4c50a03f_ln4-flag-Netherlands.svg",
+        "date": "27 Aug",
+        "year": "23",
+        "finish": "7th",
+        "fastestLap": "1:11.104",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 15,
+        "location": "Italy",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "3 Sep",
+        "year": "23",
+        "finish": "8th",
+        "fastestLap": "1:26.144",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 16,
+        "location": "Singapore",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b32b0a9560a829bf11c_ln4-flag-Singapore.svg",
+        "date": "17 Sep",
+        "year": "23",
+        "finish": "2nd",
+        "fastestLap": "1:38.046",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 17,
+        "location": "Japan",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c6ac95ae0a662d65330_ln4-flag-Japan.svg",
+        "date": "24 Sep",
+        "year": "23",
+        "finish": "2nd",
+        "fastestLap": "1:35.247",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 18,
+        "location": "Qatar",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c71cd46156653ca8316_ln4-flag-Qatar.svg",
+        "date": "8 Oct",
+        "year": "23",
+        "finish": "3rd",
+        "fastestLap": "1:24.842",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 19,
+        "location": "United States",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+        "date": "22 Oct",
+        "year": "23",
+        "finish": "2ND",
+        "fastestLap": "1:39.985",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e0692bb2b3b51c21aab3f5_ln4-on-track-scroll-img4.webp"
+      },
+      {
+        "round": 20,
+        "location": "Mexico",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b8f0b8b4f570a2af153_ln4-flag-Mexico.png",
+        "date": "29 Oct",
+        "year": "23",
+        "finish": "5th",
+        "fastestLap": "1:21.944",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 21,
+        "location": "Brazil",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cca06a4f0bcad744855_ln4-flag-Brazil.png",
+        "date": "5 Nov",
+        "year": "23",
+        "finish": "2nd",
+        "fastestLap": "1:12.486",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 22,
+        "location": "Las Vegas",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+        "date": "18 Nov",
+        "year": "23",
+        "finish": "DNF",
+        "fastestLap": "1:59.327",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 23,
+        "location": "Abu Dhabi",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf7aefc55f749a2647d_ln4-flag-Abu-Dabi.svg",
+        "date": "26 Nov",
+        "year": "23",
+        "finish": "5TH",
+        "fastestLap": "1:28.164",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      }
+    ]
+  },
+  {
+    "year": "2022",
+    "finish": "7th",
+    "podiums": "1",
+    "races": [
+      {
+        "round": 1,
+        "location": "Bahrain",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ce70be011b4a7c0bf13_ln4-flag-Bahrain.svg",
+        "date": "20 Mar",
+        "year": "22",
+        "finish": "15th",
+        "fastestLap": "1:36.988",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 2,
+        "location": "Saudi Arabia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b60ed90c1081e0d27f9_ln4-flag-Saudi-Arabia.svg",
+        "date": "27 Mar",
+        "year": "22",
+        "finish": "7TH",
+        "fastestLap": "1:32.753",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 3,
+        "location": "Australia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ca7bc20675ff4b811f7_ln4-flag-Australia.svg",
+        "date": "10 Apr",
+        "year": "22",
+        "finish": "5TH",
+        "fastestLap": "1:22.248",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 4,
+        "location": "Emilia Romagna",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "24 Apr",
+        "year": "22",
+        "finish": "3RD",
+        "fastestLap": "1:20.903",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 5,
+        "location": "Miami",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+        "date": "7 May",
+        "year": "22",
+        "finish": "DNF",
+        "fastestLap": "1:33.411",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 6,
+        "location": "Catalunya",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02bccbdea44f6b2b79c78_ln4-flag-Spain.png",
+        "date": "22 May",
+        "year": "22",
+        "finish": "8th",
+        "fastestLap": "1:25.619",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 7,
+        "location": "Monaco",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b595cbde22c4828fc37_ln4-flag-Monaco.svg",
+        "date": "28 May",
+        "year": "22",
+        "finish": "6th",
+        "fastestLap": "1:14.693",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 8,
+        "location": "Azerbaijan",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cdf22140410bbc1aa85_ln4-flag-Azerbaijan.svg",
+        "date": "12 Jun",
+        "year": "22",
+        "finish": "9th",
+        "fastestLap": "1:47.997",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 9,
+        "location": "Canada",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cbb06a4f0bcad743e27_ln4-flag-Canada.svg",
+        "date": "19 Jun",
+        "year": "22",
+        "finish": "15th",
+        "fastestLap": "1:17.495",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 10,
+        "location": "United Kingdom",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c5d68e84cb0b53857b1_ln4-flag-UK.svg",
+        "date": "3 Jul",
+        "year": "22",
+        "finish": "6TH",
+        "fastestLap": "1:31.645",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 11,
+        "location": "Australia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ca7bc20675ff4b811f7_ln4-flag-Australia.svg",
+        "date": "10 Jul",
+        "year": "22",
+        "finish": "7TH",
+        "fastestLap": "1:09.304",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 12,
+        "location": "France",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6ba2ea2924e3173662010_ln4-flag-France.svg",
+        "date": "24 Jul",
+        "year": "22",
+        "finish": "7th",
+        "fastestLap": "1:39.037",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 13,
+        "location": "Hungary",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c63ce2c79cb6d5ad322_ln4-flag-Hungary.svg",
+        "date": "31 Jul",
+        "year": "22",
+        "finish": "P7",
+        "fastestLap": "1:23.043",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 14,
+        "location": "Belgium",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cd86e1c07f5f092911e_ln4-flag-Belgium.svg",
+        "date": "28 Aug",
+        "year": "22",
+        "finish": "12th",
+        "fastestLap": "1:51.678",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 15,
+        "location": "Netherlands",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b692a635bdc4c50a03f_ln4-flag-Netherlands.svg",
+        "date": "4 Sep",
+        "year": "22",
+        "finish": "7th",
+        "fastestLap": "1:14.706",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 16,
+        "location": "Italy",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "11 Sep",
+        "year": "22",
+        "finish": "7th",
+        "fastestLap": "1:24.718",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 17,
+        "location": "Singapore",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b32b0a9560a829bf11c_ln4-flag-Singapore.svg",
+        "date": "2 Oct",
+        "year": "22",
+        "finish": "4th",
+        "fastestLap": "1:49.212",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 18,
+        "location": "Japan",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c6ac95ae0a662d65330_ln4-flag-Japan.svg",
+        "date": "9 Oct",
+        "year": "22",
+        "finish": "10th",
+        "fastestLap": "1:48.175",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 19,
+        "location": "United States",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+        "date": "23 Oct",
+        "year": "22",
+        "finish": "6th",
+        "fastestLap": "1:41.322",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 20,
+        "location": "Mexico",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b8f0b8b4f570a2af153_ln4-flag-Mexico.png",
+        "date": "30 Oct",
+        "year": "22",
+        "finish": "9th",
+        "fastestLap": "1:23.402",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 21,
+        "location": "Brazil",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cca06a4f0bcad744855_ln4-flag-Brazil.png",
+        "date": "13 Nov",
+        "year": "22",
+        "finish": "DNF",
+        "fastestLap": "1:15.855",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 22,
+        "location": "Abu Dhabi",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf7aefc55f749a2647d_ln4-flag-Abu-Dabi.svg",
+        "date": "20 Nov",
+        "year": "22",
+        "finish": "6th",
+        "fastestLap": "1:28.391",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      }
+    ]
+  },
+  {
+    "year": "2021",
+    "finish": "6th",
+    "podiums": "4",
+    "races": [
+      {
+        "round": 1,
+        "location": "Bahrain",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ce70be011b4a7c0bf13_ln4-flag-Bahrain.svg",
+        "date": "28 Mar",
+        "year": "21",
+        "finish": "4TH",
+        "fastestLap": "1:34.396",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 2,
+        "location": "Emilia Romagna",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "18 Apr",
+        "year": "21",
+        "finish": "3RD",
+        "fastestLap": "1:18.259",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 3,
+        "location": "Portugal",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6bc6acc224de525ef7782_ln4-flag-Portugal.png",
+        "date": "2 May",
+        "year": "21",
+        "finish": "5TH",
+        "fastestLap": "1:21.696",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 4,
+        "location": "Catalunya",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02bccbdea44f6b2b79c78_ln4-flag-Spain.png",
+        "date": "9 May",
+        "year": "21",
+        "finish": "8TH",
+        "fastestLap": "1:21.279",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 5,
+        "location": "Monaco",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b595cbde22c4828fc37_ln4-flag-Monaco.svg",
+        "date": "23 May",
+        "year": "21",
+        "finish": "3RD",
+        "fastestLap": "1:14.670",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 6,
+        "location": "Azerbaijan",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cdf22140410bbc1aa85_ln4-flag-Azerbaijan.svg",
+        "date": "6 Jun",
+        "year": "21",
+        "finish": "5TH",
+        "fastestLap": "1:45.326",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 8,
+        "location": "France",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6ba2ea2924e3173662010_ln4-flag-France.svg",
+        "date": "20 Jun",
+        "year": "21",
+        "finish": "5TH",
+        "fastestLap": "1:37.425",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 9,
+        "location": "Styrian",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6bd5eaed549a2afd74c7a_ln4-flag-Styria-state.png",
+        "date": "27 Jun",
+        "year": "21",
+        "finish": "5th",
+        "fastestLap": "1:08.903",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 10,
+        "location": "Austria",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf25e4717ddaccf0e80_ln4-flag-Austria.svg",
+        "date": "4 Jul",
+        "year": "21",
+        "finish": "3RD",
+        "fastestLap": "1:08.471",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 11,
+        "location": "United Kingdom",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c5d68e84cb0b53857b1_ln4-flag-UK.svg",
+        "date": "18 Jul",
+        "year": "21",
+        "finish": "4TH",
+        "fastestLap": "1:31.420",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 12,
+        "location": "Hungary",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c63ce2c79cb6d5ad322_ln4-flag-Hungary.svg",
+        "date": "1 Aug",
+        "year": "21",
+        "finish": "DNF",
+        "fastestLap": "1:16.385",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 13,
+        "location": "Belgium",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cd86e1c07f5f092911e_ln4-flag-Belgium.svg",
+        "date": "29 Aug",
+        "year": "21",
+        "finish": "14TH",
+        "fastestLap": "1:56.025",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 15,
+        "location": "Italy",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "12 Sep",
+        "year": "21",
+        "finish": "2ND",
+        "fastestLap": "1:24.971",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e06942a8c55a4c86785474_ln4-on-track-scroll-img2.webp"
+      },
+      {
+        "round": 16,
+        "location": "Russia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6ba8d77ecd2e914dac030_ln4-flag-Russia.svg",
+        "date": "26 Sep",
+        "year": "21",
+        "finish": "7th",
+        "fastestLap": "1:37.423",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 17,
+        "location": "Turkey",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6bacbd3510907fa63fb78_ln4-flag-Turkey.svg",
+        "date": "10 Oct",
+        "year": "21",
+        "finish": "7TH",
+        "fastestLap": "1:32.446",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 18,
+        "location": "United States",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+        "date": "24 Oct",
+        "year": "21",
+        "finish": "8TH",
+        "fastestLap": "1:40.228",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 19,
+        "location": "Mexico",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b8f0b8b4f570a2af153_ln4-flag-Mexico.png",
+        "date": "7 Nov",
+        "year": "21",
+        "finish": "10TH",
+        "fastestLap": "1:20.617",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 20,
+        "location": "Brazil",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cca06a4f0bcad744855_ln4-flag-Brazil.png",
+        "date": "14 Nov",
+        "year": "21",
+        "finish": "10TH",
+        "fastestLap": "1:13.761",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 22,
+        "location": "Qatar",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c71cd46156653ca8316_ln4-flag-Qatar.svg",
+        "date": "21 Nov",
+        "year": "21",
+        "finish": "9th",
+        "fastestLap": "1:25.746",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 23,
+        "location": "Saudi Arabia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b60ed90c1081e0d27f9_ln4-flag-Saudi-Arabia.svg",
+        "date": "5 Dec",
+        "year": "21",
+        "finish": "10TH",
+        "fastestLap": "1:31.914",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 24,
+        "location": "Abu Dhabi",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf7aefc55f749a2647d_ln4-flag-Abu-Dabi.svg",
+        "date": "12 Dec",
+        "year": "21",
+        "finish": "7TH",
+        "fastestLap": "1:26.762",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      }
+    ]
+  },
+  {
+    "year": "2020",
+    "finish": "9th",
+    "podiums": "1",
+    "races": [
+      {
+        "round": 1,
+        "location": "Austria",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf25e4717ddaccf0e80_ln4-flag-Austria.svg",
+        "date": "5 Jul",
+        "year": "20",
+        "finish": "3RD",
+        "fastestLap": "1:07.475",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 2,
+        "location": "Styrian",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6bd5eaed549a2afd74c7a_ln4-flag-Styria-state.png",
+        "date": "12 Jul",
+        "year": "20",
+        "finish": "5TH",
+        "fastestLap": "1:07.193",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 3,
+        "location": "Hungary",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c63ce2c79cb6d5ad322_ln4-flag-Hungary.svg",
+        "date": "19 Jul",
+        "year": "20",
+        "finish": "13th",
+        "fastestLap": "1:19.945",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 4,
+        "location": "United Kingdom",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c5d68e84cb0b53857b1_ln4-flag-UK.svg",
+        "date": "2 Aug",
+        "year": "20",
+        "finish": "5TH",
+        "fastestLap": "1:30.058",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 5,
+        "location": "United Kingdom",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c5d68e84cb0b53857b1_ln4-flag-UK.svg",
+        "date": "9 Aug",
+        "year": "20",
+        "finish": "9TH",
+        "fastestLap": "1:30.698",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 6,
+        "location": "Catalunya",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02bccbdea44f6b2b79c78_ln4-flag-Spain.png",
+        "date": "16 Aug",
+        "year": "20",
+        "finish": "10TH",
+        "fastestLap": "1:22.392",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 7,
+        "location": "Belgium",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cd86e1c07f5f092911e_ln4-flag-Belgium.svg",
+        "date": "30 Aug",
+        "year": "20",
+        "finish": "7TH",
+        "fastestLap": "1:48.552",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 8,
+        "location": "Italy",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "6 Sep",
+        "year": "20",
+        "finish": "4TH",
+        "fastestLap": "1:24.232",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 9,
+        "location": "Tuscany",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "13 Sep",
+        "year": "20",
+        "finish": "6th",
+        "fastestLap": "1:21.198",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 10,
+        "location": "Russia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6ba8d77ecd2e914dac030_ln4-flag-Russia.svg",
+        "date": "27 Sep",
+        "year": "20",
+        "finish": "15th",
+        "fastestLap": "1:37.377",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 11,
+        "location": "Germany",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6ba6eb45dca47f14ebea1_ln4-flag-Germany.svg",
+        "date": "11 Oct",
+        "year": "20",
+        "finish": "DNF",
+        "fastestLap": "1:32.328",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 12,
+        "location": "Portugal",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6bc6acc224de525ef7782_ln4-flag-Portugal.png",
+        "date": "25 Oct",
+        "year": "20",
+        "finish": "13th",
+        "fastestLap": "1:18.750",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 13,
+        "location": "Emilia Romagna",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "1 Nov",
+        "year": "20",
+        "finish": "8th",
+        "fastestLap": "1:18.069",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 14,
+        "location": "Turkey",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6bacbd3510907fa63fb78_ln4-flag-Turkey.svg",
+        "date": "15 Nov",
+        "year": "20",
+        "finish": "8th",
+        "fastestLap": "1:36.806",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 15,
+        "location": "Bahrain",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ce70be011b4a7c0bf13_ln4-flag-Bahrain.svg",
+        "date": "29 Nov",
+        "year": "20",
+        "finish": "4TH",
+        "fastestLap": "1:33.588",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 16,
+        "location": "Bahrain",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ce70be011b4a7c0bf13_ln4-flag-Bahrain.svg",
+        "date": "6 Dec",
+        "year": "20",
+        "finish": "10TH",
+        "fastestLap": "",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 17,
+        "location": "Abu Dhabi",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf7aefc55f749a2647d_ln4-flag-Abu-Dabi.svg",
+        "date": "13 Dec",
+        "year": "20",
+        "finish": "5TH",
+        "fastestLap": "1:41.964",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 14,
+        "location": "Netherlands",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b692a635bdc4c50a03f_ln4-flag-Netherlands.svg",
+        "date": "5 Sep",
+        "year": "21",
+        "finish": "10TH",
+        "fastestLap": "1:14.236",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      }
+    ]
+  },
+  {
+    "year": "2019",
+    "finish": "11th",
+    "podiums": "0",
+    "races": [
+      {
+        "round": 1,
+        "location": "Australia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ca7bc20675ff4b811f7_ln4-flag-Australia.svg",
+        "date": "17 Mar",
+        "year": "19",
+        "finish": "12th",
+        "fastestLap": "1:28.555",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 2,
+        "location": "Bahrain",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ce70be011b4a7c0bf13_ln4-flag-Bahrain.svg",
+        "date": "31 Mar",
+        "year": "19",
+        "finish": "6th",
+        "fastestLap": "1:35.777",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 3,
+        "location": "China",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b520e635e4ebfc71a15_ln4-flag-China.svg",
+        "date": "14 Apr",
+        "year": "19",
+        "finish": "18th",
+        "fastestLap": "1:38.346",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 4,
+        "location": "Azerbaijan",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cdf22140410bbc1aa85_ln4-flag-Azerbaijan.svg",
+        "date": "28 Apr",
+        "year": "19",
+        "finish": "8th",
+        "fastestLap": "1:45.394",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 5,
+        "location": "Catalunya",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02bccbdea44f6b2b79c78_ln4-flag-Spain.png",
+        "date": "12 May",
+        "year": "19",
+        "finish": "DNF",
+        "fastestLap": "1:22.561",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 6,
+        "location": "Monaco",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b595cbde22c4828fc37_ln4-flag-Monaco.svg",
+        "date": "26 May",
+        "year": "19",
+        "finish": "11th",
+        "fastestLap": "1:16.413",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 7,
+        "location": "Canada",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cbb06a4f0bcad743e27_ln4-flag-Canada.svg",
+        "date": "9 Jun",
+        "year": "19",
+        "finish": "DNF",
+        "fastestLap": "1:18.023",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 8,
+        "location": "France",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6ba2ea2924e3173662010_ln4-flag-France.svg",
+        "date": "23 Jun",
+        "year": "19",
+        "finish": "P9",
+        "fastestLap": "1:35.197",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 9,
+        "location": "Austria",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf25e4717ddaccf0e80_ln4-flag-Austria.svg",
+        "date": "30 Jun",
+        "year": "19",
+        "finish": "6th",
+        "fastestLap": "1:08.699",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 10,
+        "location": "United Kingdom",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c5d68e84cb0b53857b1_ln4-flag-UK.svg",
+        "date": "14 Jul",
+        "year": "19",
+        "finish": "11th",
+        "fastestLap": "1:29.636",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 11,
+        "location": "Germany",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6ba6eb45dca47f14ebea1_ln4-flag-Germany.svg",
+        "date": "28 Jul",
+        "year": "19",
+        "finish": "DNF",
+        "fastestLap": "1:31.081",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 12,
+        "location": "Hungary",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c63ce2c79cb6d5ad322_ln4-flag-Hungary.svg",
+        "date": "4 Aug",
+        "year": "19",
+        "finish": "9th",
+        "fastestLap": "1:21.188",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 13,
+        "location": "Belgium",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cd86e1c07f5f092911e_ln4-flag-Belgium.svg",
+        "date": "1 Sep",
+        "year": "19",
+        "finish": "11th",
+        "fastestLap": "1:48.321",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 14,
+        "location": "Italy",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c562400d3782e18c6c2_ln4-flag-Italy.svg",
+        "date": "8 Sep",
+        "year": "19",
+        "finish": "10th",
+        "fastestLap": "1:24.044",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 15,
+        "location": "Singapore",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b32b0a9560a829bf11c_ln4-flag-Singapore.svg",
+        "date": "22 Sep",
+        "year": "19",
+        "finish": "7th",
+        "fastestLap": "1:45.716",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 16,
+        "location": "Russia",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6ba8d77ecd2e914dac030_ln4-flag-Russia.svg",
+        "date": "29 Sep",
+        "year": "19",
+        "finish": "P8",
+        "fastestLap": "1:38.301",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 17,
+        "location": "Japan",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c6ac95ae0a662d65330_ln4-flag-Japan.svg",
+        "date": "13 Oct",
+        "year": "19",
+        "finish": "13th",
+        "fastestLap": "1:34.116",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 18,
+        "location": "Mexico",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b8f0b8b4f570a2af153_ln4-flag-Mexico.png",
+        "date": "27 Oct",
+        "year": "19",
+        "finish": "DNF",
+        "fastestLap": "1:21.643",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 19,
+        "location": "United States",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+        "date": "3 Nov",
+        "year": "19",
+        "finish": "7th",
+        "fastestLap": "1:38.074",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 20,
+        "location": "Brazil",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cca06a4f0bcad744855_ln4-flag-Brazil.png",
+        "date": "17 Nov",
+        "year": "19",
+        "finish": "8th",
+        "fastestLap": "1:12.328",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      },
+      {
+        "round": 21,
+        "location": "Abu Dhabi",
+        "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf7aefc55f749a2647d_ln4-flag-Abu-Dabi.svg",
+        "date": "1 Dec",
+        "year": "19",
+        "finish": "8th",
+        "fastestLap": "1:43.026",
+        "trophy": null,
+        "hoverImg": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67dae5824cc4245e1e6cf501_ln4-menu-img-5.webp"
+      }
+    ]
+  }
+]

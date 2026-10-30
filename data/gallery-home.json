@@ -1,0 +1,136 @@
+[
+  {
+    "kind": "photo",
+    "variant": [
+      "is-home-1"
+    ],
+    "caption": "Qatar, 2024",
+    "img": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68302baa04b14a1ca33c0b25_ln-home-horiz-1.webp",
+    "alt": "Lando in casual clothes walking through paddock",
+    "heading": "",
+    "pill": null
+  },
+  {
+    "kind": "photo",
+    "variant": [
+      "is-home-2"
+    ],
+    "caption": "FIA Prize Giving, 2024",
+    "img": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68302baab12220595c8223b3_ln-home-horiz-2.webp",
+    "alt": "Lando lifting trophy in tux",
+    "heading": "",
+    "pill": null
+  },
+  {
+    "kind": "quote",
+    "variant": [
+      "is-text-callout",
+      "callout-1"
+    ],
+    "text": "It doesn’t matter where you start, it’s how you progress from there.",
+    "img": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67cecea4e9d311047dcb51e5_ln4-hw-signature2.svg"
+  },
+  {
+    "kind": "photo",
+    "variant": [
+      "is-home3"
+    ],
+    "caption": "Miami GP, 2024",
+    "img": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68302babcf12f0111d96322e_ln-home-horiz-3.webp",
+    "alt": "Lando lifting tophy",
+    "heading": "",
+    "pill": null
+  },
+  {
+    "kind": "photo",
+    "variant": [
+      "is-home-4",
+      "neg-margin"
+    ],
+    "caption": "Monaco, 2023",
+    "img": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68302baa798e2cc6e02ac38a_ln-home-horiz-4.webp",
+    "alt": "Lando playing golf",
+    "heading": "",
+    "pill": null
+  },
+  {
+    "kind": "photo",
+    "variant": [
+      "is-5"
+    ],
+    "caption": "Britain, 2025",
+    "img": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68da85d632bfefc552a0faac_Britain-25%20(1).webp",
+    "alt": "Lando in f1 car",
+    "heading": "",
+    "pill": {
+      "text": "1",
+      "icon": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/680cbcfdbc4bdc0ef619369f_ln-icon-crossed-flags2.svg"
+    }
+  },
+  {
+    "kind": "photo",
+    "variant": [
+      "is-home-6"
+    ],
+    "caption": "Battersea, 2024",
+    "img": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68302baa14a96f3cdd2f9a95_ln-home-horiz-6.webp",
+    "alt": "Lando holding dog smiling",
+    "heading": "",
+    "pill": null
+  },
+  {
+    "kind": "photo",
+    "variant": [
+      "is-home-7"
+    ],
+    "caption": "High Performance Gala, 2024",
+    "img": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68302bab3ee6e26b1f434a7d_ln-home-horiz-7.webp",
+    "alt": "Lando in tux",
+    "heading": "",
+    "pill": null
+  },
+  {
+    "kind": "photo",
+    "variant": [
+      "is-home-8",
+      "neg-margin"
+    ],
+    "caption": "Barcelona, 2024",
+    "img": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68302baaedf821dd2e3a7c74_ln-home-horiz-8.webp",
+    "alt": "Lando taking photo out of a plane",
+    "heading": "",
+    "pill": null
+  },
+  {
+    "kind": "quote",
+    "variant": [
+      "is-text-callout",
+      "is-home-callout-2"
+    ],
+    "text": "Since I was 7 years old and had my first experience with kart racing, I’ve worked tirelessly to make that dream come true.",
+    "img": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/67e7eeaf67d51519b546828d_ln4-signature-dark-green.webp"
+  },
+  {
+    "kind": "photo",
+    "variant": [
+      "is-home10"
+    ],
+    "caption": "austria, 2020",
+    "img": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68302babb87c5f19ec131093_ln-home-horiz-9.webp",
+    "alt": "Lando lifting trophy",
+    "heading": "",
+    "pill": null
+  },
+  {
+    "kind": "photo",
+    "variant": [
+      "is-home9",
+      "neg-margin"
+    ],
+    "caption": "US, 2024",
+    "img": "https://cdn.prod.website-files.com/67b5a02dc5d338960b17a7e9/68302bab4f762cdbc5e93415_ln-home-horiz-10.webp",
+    "alt": "Lando celebrating a win",
+    "heading": "",
+    "pill": null
+  }
+]

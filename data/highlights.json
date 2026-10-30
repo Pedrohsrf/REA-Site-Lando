@@ -1,0 +1,107 @@
+[
+  {
+    "series": "F1",
+    "name": "Brazil",
+    "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cca06a4f0bcad744855_ln4-flag-Brazil.png",
+    "date": "9 Nov",
+    "year": "25",
+    "finish": "1st",
+    "time": "1:32:01.596",
+    "gap": "-",
+    "trophy": {
+      "kind": "gold",
+      "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b93bf4e8892026600422_shanghai.svg"
+    },
+    "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6910e4bdef71283ceaaaaf7c_lando-brazil.webp"
+  },
+  {
+    "series": "F1",
+    "name": "United Kingdom",
+    "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02c5d68e84cb0b53857b1_ln4-flag-UK.svg",
+    "date": "6 Jul",
+    "year": "25",
+    "finish": "1st",
+    "time": "1:37:15.735",
+    "gap": "-",
+    "trophy": {
+      "kind": "gold",
+      "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b9b0d1d5c369ef6e824a_silverstone.svg"
+    },
+    "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/687e5afc3c31f988c5ce2ec4_LandoBritishGP25.jpg"
+  },
+  {
+    "series": "F1",
+    "name": "Monaco",
+    "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b595cbde22c4828fc37_ln4-flag-Monaco.svg",
+    "date": "25 May",
+    "year": "25",
+    "finish": "1st",
+    "time": "1:40:33.843",
+    "gap": "-",
+    "trophy": {
+      "kind": "gold",
+      "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b9428f35e69829405bf2_monaco.svg"
+    },
+    "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/687e5b78f7107dcbb5c89e23_LandoMonaco25.jpg"
+  },
+  {
+    "series": "F1",
+    "name": "Australia",
+    "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02ca7bc20675ff4b811f7_ln4-flag-Australia.svg",
+    "date": "16 Mar",
+    "year": "25",
+    "finish": "1st",
+    "time": "1:42:06.304",
+    "gap": "+0.895s",
+    "trophy": {
+      "kind": "gold",
+      "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b96ec0e262fb26980f54_melbourne.svg"
+    },
+    "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880e88dd8fdd751582c581d_LandoAus25.webp"
+  },
+  {
+    "series": "F1",
+    "name": "Abu Dhabi",
+    "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02cf7aefc55f749a2647d_ln4-flag-Abu-Dabi.svg",
+    "date": "8 Dec",
+    "year": "24",
+    "finish": "1st",
+    "time": "1:26:33.291",
+    "gap": "-",
+    "trophy": {
+      "kind": "gold",
+      "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b9e3705d1a50d024cefd_yas-marina.svg"
+    },
+    "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68d83f314814d0df92af7224_lando%20-%20hover%20image%20-%20abu%202024.webp"
+  },
+  {
+    "series": "F1",
+    "name": "Singapore",
+    "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b32b0a9560a829bf11c_ln4-flag-Singapore.svg",
+    "date": "22 Sep",
+    "year": "24",
+    "finish": "1st",
+    "time": "1:40:52.571",
+    "gap": "-",
+    "trophy": {
+      "kind": "gold",
+      "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b9227e77bb6c6c720d09_singapore.svg"
+    },
+    "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/6880bfc5787be733022da054_LandoSingaporeWin24.webp"
+  },
+  {
+    "series": "F1",
+    "name": "Miami",
+    "flag": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e02b48c95ae0a662d55700_ln4-flag-USA.svg",
+    "date": "5 May",
+    "year": "24",
+    "finish": "1st",
+    "time": "1:30:49.876",
+    "gap": "-",
+    "trophy": {
+      "kind": "gold",
+      "img": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/67e6b95ed3d2262c4baf3b4f_miami.svg"
+    },
+    "hoverImg": "https://cdn.prod.website-files.com/67d97a68478fe87e30c67abe/68d83f4611793e72dd5d3c0b_lando%20-%20hover%20image%20-%20miami%202024.webp"
+  }
+]
